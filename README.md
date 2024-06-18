@@ -12,9 +12,7 @@ Crack
 
 Background  
 ----------
-![image](https://github.com/FY387/Intelligent-segmentation-of-tunnel-lining-cracks/blob/main/Background%20example-1.jpg)![image](https://github.com/FY387/Intelligent-segmentation-of-tunnel-lining-cracks/blob/main/Background%20example-2.jpg)![image](https://github.com/FY387/Intelligent-segmentation-of-tunnel-lining-cracks/blob/main/Background%20example-3.jpg)
-<img src="https://github.com/FY387/Intelligent-segmentation-of-tunnel-lining-cracks/blob/main/Background%20example-1.jpg" width="1280" height="720"><img src="https://github.com/FY387/Intelligent-segmentation-of-tunnel-lining-cracks/blob/main/Background%20example-2.jpg" width="1280" height="720"><img src="https://github.com/FY387/Intelligent-segmentation-of-tunnel-lining-cracks/blob/main/Background%20example-3.jpg" width="1280" height="720"/>
-  
+![image](https://github.com/FY387/Intelligent-segmentation-of-tunnel-lining-cracks/blob/main/Background%20example-1.jpg) ![image](https://github.com/FY387/Intelligent-segmentation-of-tunnel-lining-cracks/blob/main/Background%20example-2.jpg) ![image](https://github.com/FY387/Intelligent-segmentation-of-tunnel-lining-cracks/blob/main/Background%20example-3.jpg)
 # Citation
 
 # Acknowledgments
