@@ -7,9 +7,10 @@ Link: https://pan.baidu.com/s/1klz0myRUvl6nlC3Zs8JrAA
 Password: if7j
 # Image samples of metro tunnel lining acquired by a camera mounted on our developed tunnel drones.
 Crack  
-![image](https://github.com/FY387/Intelligent-segmentation-of-tunnel-lining-cracks/blob/main/Crack%20example-1.jpg)  ![image](https://github.com/FY387/Intelligent-segmentation-of-tunnel-lining-cracks/blob/main/Crack%20example-2.jpg)  ![image](https://github.com/FY387/Intelligent-segmentation-of-tunnel-lining-cracks/blob/main/Crack%20example-3.jpg)
+-----
+![image](https://github.com/FY387/Intelligent-segmentation-of-tunnel-lining-cracks/blob/main/Crack%20example-1.jpg) | ![image](https://github.com/FY387/Intelligent-segmentation-of-tunnel-lining-cracks/blob/main/Crack%20example-2.jpg) | ![image](https://github.com/FY387/Intelligent-segmentation-of-tunnel-lining-cracks/blob/main/Crack%20example-3.jpg)
 
-
+https://github.com/FY387/Intelligent-segmentation-of-tunnel-lining-cracks/blob/main/Background%20example-1.jpg
 
   
 # Citation
