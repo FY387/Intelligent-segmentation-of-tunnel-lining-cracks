@@ -18,7 +18,7 @@ Author: Yong Feng, Xiao-Lei Zhang, Shi-Jin Feng, Wei Zhang, Kan Hu, Yue-Wu Da
 Title: Intelligent segmentation and quantification of tunnel lining cracks via computer vision  
 Journal: Structural Health Monitoring  
 Year: 2024  
-DOI: 10.1177/14759217241254748  
+DOI: 10.1177/14759217241254748 (https://doi.org/10.1177/14759217241254748)  
 ISSN: 1475-9217
 # Acknowledgments
 Much of the work was supported by the National Natural Science Foundation of China under Grant No. 41931289, the National Key Research and Development Program of China under Grant No. 2020YFC1808105, Science and Technology Commission of Shanghai Municipality under Grant No. 21DZ1204400, the National Natural Science Foundation of China under Grant No. 42372335, and the Fundamental Research Funds for the Central Universities.  
